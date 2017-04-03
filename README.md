@@ -8,5 +8,5 @@ For the planned features list, go to Issues.
 
 Thank you so much for being a part of the family.
 
-Love,
+Love,  
 –Calvin & the rest of the Simplero team
