@@ -10,3 +10,5 @@ Thank you so much for being a part of the family.
 
 Love,  
 –Calvin & the rest of the Simplero team
+
+PS: if you're having troubling using GitHub, we have [a quick guide for you to follow](https://help.simplero.com/categories/274166-creating-github-and-submitting-a-feature)
