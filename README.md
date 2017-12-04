@@ -1,14 +1,10 @@
 # Simplero Roadmap
 
-This is the place to see what we're planning for the future, and to suggest new features, as well as to vote on them, comment on them, and petition for them.
+[Feature requests are found under Issues](https://github.com/Simplero/Roadmap/issues).
 
-We won't guarantee that everything listed or suggested here will see the light of day, or when features will be released, but we do very much want your input on where we're going, and what would be valuable to you.
+We love that you care so much about Simplero, and we love to serve you.
 
-For the planned features list, go to Issues.
+[Before adding your feature request, please read the guide](https://help.simplero.com/categories/274166)
 
-Thank you so much for being a part of the family.
-
-Love,  
+With gratitude,
 –Calvin & the rest of the Simplero team
-
-PS: if you're having troubling using GitHub, we have [a quick guide for you to follow](https://help.simplero.com/categories/274166-creating-github-and-submitting-a-feature)
